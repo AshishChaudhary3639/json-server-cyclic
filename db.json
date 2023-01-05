@@ -1,11 +1,41 @@
 {
-    "users":[
-        {"id":1,"name":"Ashish","email":"ashish@gmail.com","age":23},
-        {"id":2,"name":"Bhaskar","email":"bhaskar@gmail.com","age":24}
-    ],
-    "todos":[
-        {"id":1,"title":"Learn js","status":false},
-        {"id":2,"title":"Learn css","status":false}
-    ]
-
+  "users": [
+    { "id": 1, "name": "Ashish", "email": "ashish@gmail.com", "age": 23 },
+    { "id": 2, "name": "Bhaskar", "email": "bhaskar@gmail.com", "age": 24 }
+  ],
+  "todos": [
+    { "id": 1, "title": "Learn js", "status": false },
+    { "id": 2, "title": "Learn css", "status": false }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
+  ]
 }
