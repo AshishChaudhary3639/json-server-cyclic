@@ -41,7 +41,9 @@
   "signup": [
     {"id":1,"email":"ashish@gmail.com","password":"Ashish@123"}
   ],
-  "tasks": [],
+  "tasks": [
+    {"id":1,"title":"Mock-coding"}
+  ],
   "petUsers": [],
   "dogs": [],
   "masailibrary": [
