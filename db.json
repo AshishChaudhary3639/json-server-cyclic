@@ -38,7 +38,9 @@
       "Price": 500000
     }
   ],
-  "signup": [],
+  "signup": [
+    {"id":1,"email":"ashish@gmail.com","password":"Ashish@123"}
+  ],
   "tasks": [],
   "petUsers": [],
   "dogs": [],
